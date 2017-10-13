@@ -1,0 +1,16 @@
+{
+  "name": "restful-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Defenderbass/restful-server.git"
+  },
+  "author": "Igor Katsuba <katsuba.igor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Defenderbass/restful-server/issues"
+  },
+  "homepage": "https://github.com/Defenderbass/restful-server#readme"
+}
